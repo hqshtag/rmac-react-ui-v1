@@ -6,7 +6,7 @@ import { makeStyles, Typography } from "@material-ui/core";
 const styles = makeStyles({
   buttonHolder: {
     position: "absolute",
-    bottom: "27px"
+    bottom: "99px"
   },
   caption: {
     position: "absolute",
